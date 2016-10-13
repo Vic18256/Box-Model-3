@@ -1,0 +1,73 @@
+
+
+
+
+
+
+
+#container {
+
+
+top: 100px;
+margin-left: auto;
+margin-right: auto;
+width: 600px;
+height: 400px;
+background-color: #FF0080;
+padding: 10px;
+border-radius: 10px;
+font-size: 0;
+	
+	
+	
+	
+	
+	
+}
+
+h2{
+	
+	font-family: Roboto;
+	color: #fff;
+	
+}
+
+
+
+.vessel {
+	
+	width: 150px;
+	height: 100px;
+	background-color: #81BBC9;
+	margin: 10px;
+	display: inline-block;
+	position: relative;
+	border-radius: 5px;
+	font-size: 20px;
+	text-align: center;
+	
+}
+
+
+
+#box0 {
+	
+	
+}
+
+#box1 {
+	
+	left: 258px;
+}
+
+#box2 {
+	
+	top: 280px;
+	left: 88px;
+}
+
+#box3 {
+	top: 160px;
+	right: 5px;
+	
+}
